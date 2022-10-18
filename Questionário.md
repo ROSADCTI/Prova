@@ -11,5 +11,7 @@ O que  commit?  R.e um empacotamento de alteracoes.
 6 - O que e branch?  R: e ramificacao do repositorio do projeto.
 7 - O que e pull request?  R: e uma solitacao de alteracao do repositorio do terceiro.
 
+8 - O que e fork?  R:  e a copia um repositorio de terceiro, onde pode se fazer alteracao.
+
 
 
