@@ -8,7 +8,7 @@ O que  commit?  R.e um empacotamento de alteracoes.
 
 3 -  - O que e merge?  R: justa duas ou mais branche.
 
-5 - O que e pull?  R: traz infromaco do rmoto para local.
+5 - O que e pull?  R: traz infromaco do remoto para local.
 
 6 - O que e branch?  R: e ramificacao do repositorio do projeto.
 7 - O que e pull request?  R: e uma solitacao de alteracao do repositorio do terceiro.
