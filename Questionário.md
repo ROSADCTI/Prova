@@ -13,5 +13,7 @@ O que  commit?  R.e um empacotamento de alteracoes.
 
 8 - O que e fork?  R:  e a copia um repositorio de terceiro, onde pode se fazer alteracao.
 
+9 - O que e um VCS? R: software controles vesao
+
 
 
