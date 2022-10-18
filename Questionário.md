@@ -9,6 +9,7 @@ O que  commit?  R.e um empacotamento de alteracoes.
 5 - O que e pull?  R: traz infromaco do rmoto para local.
 
 6 - O que e branch?  R: e ramificacao do repositorio do projeto.
-O que e pull request?  R: e uma solitacao de alteracao do repositorio do terceiro.
+7 - O que e pull request?  R: e uma solitacao de alteracao do repositorio do terceiro.
+
 
 
